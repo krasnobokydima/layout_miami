@@ -1,6 +1,0 @@
-@mixin onDesctop {
-  @media (min-width: 768px) {
-    transition: $transition-limit;
-    @content;
-  }
-}
